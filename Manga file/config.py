@@ -5,9 +5,9 @@ import requests
 from telegraph import Telegraph
 
 # --- Конфигурация ---
-TOKEN = "7674848541:AAE_BIB_50rQbrGs33RAeeSjG68fcpYo3g8"
+TOKEN = ""
 BASE_URL = 'https://desu.city/manga/api'
-ADMIN_IDS = [6311102512, 390443177]
+ADMIN_IDS = []
 
 # --- Файлы данных ---
 FAVORITES_FILE = "favorites.json"
